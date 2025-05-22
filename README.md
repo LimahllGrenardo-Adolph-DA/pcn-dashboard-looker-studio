@@ -82,11 +82,15 @@ To analyze PCN issuance patterns and identify insights that can improve parking 
 
 ## 📸 Screenshots
 
-| Overview Dashboard | Cancellations |
-|--------------------|-------------------|
-| ![PCN Insight](screenshots/PCN Insight.png) | ![Cancellations dashboard](screenshots/Cancellations dashboard.png) |
+### 📉 PCN Cancellations Dashboard
+![Cancellations Dashboard](screenshots/cancellations-dashboard.png)
 
-_(You can add more screenshots to the `/screenshots/` folder and link them here.)_
+### 🗺️ Locations of PCN Issuance
+![Locations](screenshots/locations.png)
+
+### 💡 PCN Insight Overview
+![PCN Insight](screenshots/pcn-insight.png)
+
 
 ---
 
